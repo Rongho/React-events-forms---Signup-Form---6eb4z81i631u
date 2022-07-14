@@ -1,5 +1,6 @@
 import React, {Component, useState} from "react";
 import '../styles/App.css';
+import Form from "./Form";
 
 const App = () => {
   return (
